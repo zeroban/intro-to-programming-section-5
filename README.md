@@ -17,7 +17,7 @@ This assignment will teach you the following:
 
 Fork this GitHub repository to create your own working version:
 
-![Fork Assignment: Step 1](instructions/fork-assignment/fork-step-1.png)
+![Fork Assignment: Step 1](instructions/fork-assignment/fork-sec-5-step-1.png)
 
 Select your GitHub account from the list:
 
