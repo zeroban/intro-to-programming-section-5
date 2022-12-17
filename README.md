@@ -21,7 +21,7 @@ Fork this GitHub repository to create your own working version:
 
 Click the "Code" button (1), select HTTPS (2) and copy the URL (3) for your repository.  
 
-![Fork Assignment: Step 4](instructions/fork-assignment/step-4.png)
+![Fork Assignment: Step 4](instructions/fork-assignment/fork-step-4.png)
 
 Clone this repository so that the code is available on your local machine.  **BE SURE YOU ARE NOT INSIDE YOUR LOCAL FOLDER FOR YOUR PORTFOLIO PROJECT WHEN YOU CLONE THIS REPOSITORY!**
 
