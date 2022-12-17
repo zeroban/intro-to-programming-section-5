@@ -19,21 +19,13 @@ Fork this GitHub repository to create your own working version:
 
 ![Fork Assignment: Step 1](instructions/fork-assignment/fork-sec-5-step-1.png)
 
-Select your GitHub account from the list:
-
-![Fork Assignment: Step 2](instructions/fork-assignment/step-2.png)
-
-You should be directed to your forked GitHub repository:
-
-![Fork Assignment: Step 3](instructions/fork-assignment/step-3.png)
-
-Click the "Code" button and copy the URL for your repository:
+Click the "Code" button (1), select HTTPS (2) and copy the URL (3) for your repository.  
 
 ![Fork Assignment: Step 4](instructions/fork-assignment/step-4.png)
 
-Clone this repository so that the code is available on your local machine:
+Clone this repository so that the code is available on your local machine.  **BE SURE YOU ARE NOT INSIDE YOUR LOCAL FOLDER FOR YOUR PORTFOLIO PROJECT WHEN YOU CLONE THIS REPOSITORY!**
 
-> Hint: Run this command from the directory where you want to store your code
+> Hint: Run this command from the directory where you want to store your code, NOT inside your portfolio folder.
 
 > Note: Replace `<url>` with the URL you copied in the previous step
 
